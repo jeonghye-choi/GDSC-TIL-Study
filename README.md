@@ -1,7 +1,4 @@
 <br/>
-<p align="middle" >
-  <img width="300px;" src="./images/로고_background-none.png"/>
-</p>
 <h2 align="middle">TIL Study</h2>
 <p align="middle">
 매일 공부하는 습관을 만드는 스터디
@@ -15,9 +12,10 @@ Today I Leared
 
 <br/>
 
-### 진행 일정
+### 진행
 
-- 2월 한달 간(설 연휴 끝나고, 2/7~2/28 `16days`)
+- 1월
+- 2월
 - 평일 21:00-24:00 `3hours`
 
 ### 진행 방식
